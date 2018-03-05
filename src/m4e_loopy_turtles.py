@@ -69,6 +69,6 @@ for k in range(13):
     # Put the pen down again (so drawing resumes).
     # Make the size for the NEXT square be 12 pixels smaller.
     blue_turtle.pen_down()
-    size = size - 12
+    size = size - 20
 
 window.close_on_mouse_click()
